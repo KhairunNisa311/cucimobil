@@ -102,37 +102,6 @@ http://www.tooplate.com/view/2098-health
           <div class="container">
                <div class="row">
 
-                         <!-- <div class="owl-carousel owl-theme">
-                         <div class="item=images/about-bg.jpg">
-                         !-- <div id="container" data-background="res/img/login.jpg"> -->
-                                   <!-- <div class="caption"> 
-                                        <div class="col-md-offset-1 col-md-10">
-                                             !-- <h3>Percayakan Noda Kendaraan Bersama Kami</h3> -->
-                                             <!-- <h1>CuMil</h1>
-                                             <a href="#about" class="section-btn btn btn-default smoothScroll">Tentang Kami</a>
-                                        </div>
-                                   </div>
-                              </div> --> 
-
-                              <!-- <div class="item item-second">
-                                   <div class="caption">
-                                        <div class="col-md-offset-1 col-md-10">
-                                             <h3>Kinclongkan kendaraan anda hanya disini</h3> 
-                                             <h1>CuMil</h1>
-                                             <a href="#appointment" class="section-btn btn btn-default btn-gray smoothScroll">Daftar Sekarang</a>
-                                        </div>
-                                   </div>
-                              </div>
-
-                              <div class="item item-third">
-                                   <div class="caption">
-                                        <div class="col-md-offset-1 col-md-10">
-                                             <h3>Dan Berikan Masukan Kepada Kami</h3>
-                                             <h1>Kepuasan Anda Adalah Semangat Kami</h1>
-                                             <a href="#saran" class="section-btn btn btn-default btn-blue smoothScroll">Kirim Saran</a>
-                                        </div>
-                                   </div>
-                              </div> -->
                          </div>
 
                </div>
@@ -150,7 +119,7 @@ http://www.tooplate.com/view/2098-health
                                <h1>CuMil</h1>
                               <h2 class="wow fadeInUp" data-wow-delay="0.6s">Tentang Kami</h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
-                                   <p>Hugo Carwash merupakan salah satu bidang usaha yang menawarkan jasa perawatan kendaraan berupa pencucian dan pembersihan kendaraan.</p>
+                                   <p>CuMil merupakan sistem pelayanan jasa cuci mobil</p>
                               </div>
                               <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                    <figcaption>
